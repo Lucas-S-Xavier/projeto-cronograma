@@ -1,0 +1,12 @@
+Cores:
+
+:root {
+	--cor1: #004091;
+	--cor2: #0B3C7B;
+	--cor3: #092C59;
+	--cor4: #F0A415;
+	--cor5: #FFE8B3;
+	--cor6: #FFE8B3;
+	--cor7: #FFFFFF;
+}
+
