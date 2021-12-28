@@ -30,6 +30,7 @@
 
 body {
     font-family: var(--fonte-padrão);
+    background-attachment: fixed;
 }
 
 header {
@@ -74,7 +75,7 @@ nav > a:hover {
 }
 
 main {
-    height: 150vh;
+    height: 200vh;
     background-image: url('../Imagens/imagem-de-fundo-2.png');
     background-position: center center;
     background-size: cover;
