@@ -74,7 +74,7 @@ nav > a:hover {
 }
 
 main {
-    height: 90vh;
+    height: 200vh;
     background-image: url('../Imagens/imagem-de-fundo-2.png');
     background-position: center center;
     background-size: cover;
