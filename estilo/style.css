@@ -30,10 +30,6 @@
 
 body {
     font-family: var(--fonte-padrão);
-    max-width: 1000px;
-    min-width: 300px;
-    background-attachment: fixed;
-    
 }
 
 header {
@@ -78,13 +74,12 @@ nav > a:hover {
 }
 
 main {
+    height: 90vh;
     background-image: url('../Imagens/imagem-de-fundo-2.png');
-    background-position: center;
+    background-position: center center;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-repeat: repeat;
     text-align: center;
-    max-width: 1000px;
     min-width: 300px;
 }
 
